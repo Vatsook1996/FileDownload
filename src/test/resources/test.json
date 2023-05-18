@@ -1,18 +1,13 @@
 {
-  "name": "George",
-  "age": 27,
-  "pets": [
-    {
-      "animal": "Parrot",
-      "petsName": "Robert"
-    },
-    {
-      "animal": "Snake",
-      "petsName": "Anthony"
-    },
-    {
-      "animal": "Chipmunk",
-      "petsName": "Owen"
-    }
-  ]
+  "laptop" : "Acer",
+  "os": "windows 10",
+  "ssd" :
+  [
+    "512 gb",
+    "1 tb"
+  ],
+  "ram" : {
+    "grey" : "16 gb",
+    "blue" : "8 gb"
+  }
 }

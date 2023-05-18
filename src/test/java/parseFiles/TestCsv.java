@@ -1,4 +1,4 @@
-package file_download;
+package parseFiles;
 
 import com.opencsv.CSVReader;
 import org.junit.jupiter.api.Assertions;
@@ -31,4 +31,5 @@ public class TestCsv {
         }
     }
 }
+
 

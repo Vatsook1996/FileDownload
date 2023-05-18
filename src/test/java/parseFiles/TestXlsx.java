@@ -1,4 +1,4 @@
-package file_download;
+package parseFiles;
 
 import com.codeborne.xlstest.XLS;
 import org.junit.jupiter.api.Assertions;

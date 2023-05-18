@@ -1,4 +1,4 @@
-package file_download;
+package parseFiles;
 
 import com.codeborne.pdftest.PDF;
 import org.junit.jupiter.api.Assertions;
